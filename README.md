@@ -1,1 +1,2 @@
-# enron_email_project
+# Exploring Enron corpus
+[dataset](https://www.cs.cmu.edu/~./enron/)
